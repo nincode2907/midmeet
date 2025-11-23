@@ -1,0 +1,39 @@
+# Python / Django
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*.pyc
+*.sqlite3
+db.sqlite3
+*.log
+
+# Node / React Native / Expo
+node_modules/
+.expo/
+.expo-shared/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+dist/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+*.apk
+*.aab
